@@ -18,7 +18,6 @@ Automate the transfer of profits from Long positions to Short and Short position
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
 
 - [reactjs] - frontend
 - [solidity] - smartcontract
